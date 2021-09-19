@@ -12,7 +12,7 @@
 .card-body .btn {
   width: 100%;
   position: relative;
-  padding: 15px 0;
+  padding: 10px 0;
   background-color: $primary;
 }
 .card-body .btn::after {
@@ -24,4 +24,7 @@
   height: 100%;
   background: $gray-900;
   border-radius: 0 4px 4px 0;
+}
+.card-img-top {
+  border-radius: 10px;
 }
