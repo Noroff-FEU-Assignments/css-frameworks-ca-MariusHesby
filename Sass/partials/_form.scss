@@ -1,0 +1,25 @@
+.input-group-text {
+  background-color: #c7c7c7;
+}
+
+.form-bg {
+  background-color: #efefef;
+}
+.form-check-input {
+  width: 34px;
+  height: 33px;
+  background-color: $primary;
+  border: none;
+}
+.btn-primary {
+  background-color: $gray-900;
+  color: $white;
+  border: none;
+}
+.list-group-item {
+  background: transparent;
+  border: none;
+}
+.table > :not(caption) > * > * {
+  border: none;
+}

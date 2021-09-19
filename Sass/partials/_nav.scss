@@ -6,9 +6,15 @@
   z-index: 10;
   background-color: #efefef;
   padding: 17px 0;
-  border: 2px solid red;
 }
-
+// .navbar .show {
+//   box-shadow: 0 6px 12px rgba(0, 0, 0, 0.16);
+//   padding-bottom: 20px;
+// }
+.nav-item .active {
+  background-color: #fff;
+  border-radius: 4px;
+}
 // .navbar-toggler {
 //   border: none;
 // }

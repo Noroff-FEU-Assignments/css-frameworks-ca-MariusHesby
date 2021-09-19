@@ -1,0 +1,13 @@
+.card-body .btn {
+  width: 100%;
+}
+
+.card-body .btn::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 10px;
+  height: 100%;
+  background: var(--primary);
+}
